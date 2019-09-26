@@ -10,6 +10,7 @@
             "role": "Developer"
         }
     ],
+    "license": "MIT",
     "homepage": "http://andersao.github.io/laravel-validation",
     "support": {
         "email": "contato@andersonandra.de",
@@ -19,7 +20,7 @@
         "docs": "http://andersao.github.io/laravel-validation"
     },
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.2",
         "illuminate/support": "~5.4|^6.0",
         "illuminate/validation": "~5.4|^6.0"
     },
